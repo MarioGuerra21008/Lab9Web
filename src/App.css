@@ -1,0 +1,27 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  padding-top: 10px;
+  background-color: #73a9b8;
+  font-family:'Times New Roman', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculadora-container {
+  width: 400px;
+  height: 600px;
+  padding: 14px;
+  background-color: #1a3452;
+  border-radius: 20px;
+  border: 5px solid white;
+}
+
+.fila {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
